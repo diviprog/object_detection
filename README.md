@@ -1,1 +1,3 @@
-This is an object detection algorithm using the MobileNet SSD model that identifies objects in the webcam
+Object detection models -
+- one is pretrained using a MobileNet SSD model
+- other is custom trained model
